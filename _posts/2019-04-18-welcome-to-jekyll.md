@@ -6,10 +6,10 @@ categories:
 tags:
   - Jekyll
   - update
-youtubeId: FssULNGSZIA
+youtubeId: yr8RZP9qkBg
 ---
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](https://silvrback.s3.amazonaws.com/uploads/1fd59359-7fb6-4221-9988-fa0b98c8b26c/4810954845_13f12b6948_z_medium.jpg)
 
 {% include youtube.html id=page.youtubeId %}
 
